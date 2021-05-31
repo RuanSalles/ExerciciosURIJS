@@ -26,7 +26,3 @@ if (media >= 7) {
 
 console.log("Media final: " + resultado.toFixed(1)); 
 }
-
-
-
-
